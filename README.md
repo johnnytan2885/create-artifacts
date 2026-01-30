@@ -1,0 +1,1 @@
+[![Create Artifacts](https://github.com/johnnytan2885/create-artifacts/actions/workflows/create-artifacts.yml/badge.svg)](https://github.com/johnnytan2885/create-artifacts/actions/workflows/create-artifacts.yml)
