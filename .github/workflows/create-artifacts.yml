@@ -18,7 +18,7 @@ jobs:
       - name: Install dependencies
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: bun install
+        run: bun install --no-git
 
       - name: Test with different seeds
         run: |
