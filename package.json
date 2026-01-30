@@ -7,6 +7,12 @@
     "test": "bun random-number-generator.js test-seed"
   },
   "dependencies": {
-    "@stdlib/random-base-mt19937": "^0.2.1"
+    "@stdlib/random-base-mt19937": "^0.2.1",
+    "@stdlib/number-float16-ctor": "^0.0.0",
+    "@stdlib/number-float32-base-to-float16": "^0.0.0",
+    "@stdlib/number-float64-base-to-float16": "^0.0.0",
+    "@stdlib/constants-float32-num-significand-bits": "^0.0.0"
+
+
   }
 }
